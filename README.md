@@ -4,7 +4,7 @@
 
 **View this demo site**: https://hello-world-function.netlify.app
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/488273b8-e7d0-40c3-818c-25bad51a3007/deploy-status)](https://app.netlify.com/sites/every-color/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f15f03f9-55d8-4adc-97d5-f6e085141610/deploy-status)](https://app.netlify.com/sites/example-hello-world-function/deploys)
 
 
 
