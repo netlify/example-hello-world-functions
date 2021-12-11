@@ -1,6 +1,6 @@
 ![Netlify examples](netlify-badge-examples.png)
 
-# Every Color
+# Hello world functions
 
 **View this demo site**: https://hello-world-function.netlify.app
 
