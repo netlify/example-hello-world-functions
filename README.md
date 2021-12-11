@@ -29,7 +29,7 @@ Deploy your own version of this example site, by clicking the Deploy to Netlify 
 - Create an automated deployment pipeline to watch for changes on your repo
 - Build and deploy your new site
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/example-every-color&utm_medium=social&utm_source=github&utm_campaign=devex-ph&utm_content=devex-examples)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/example-hello-world-functions&utm_medium=social&utm_source=github&utm_campaign=devex-ph&utm_content=devex-examples)
 
 
 ## Install and run this example locally
@@ -39,10 +39,10 @@ You can clone this example repo to explore its features and implementation, and 
 ```shell
 
 # 1. Clone the repository to your local development environment
-git clone git@github.com:netlify/example-every-color.git
+git clone git@github.com:netlify/example-hello-world-functions.git
 
 # 2. Move into the project directory
-cd example-every-color
+cd example-hello-world-functions
 
 # 3. Install the Netlify CLI to let you locally serve your site using Netlify's features
 npm install -g netlify-cli
