@@ -1,0 +1,16 @@
+---
+on:
+  pull-request:
+    branches: [main]
+
+jobs:
+  test:
+    name: Deploy test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 17.x
+      - run: npm ci
+      - run: npm test
