@@ -1,0 +1,11 @@
+---
+on:
+  push:
+    branches:
+      - dev
+jobs:
+  name: run pedro
+  runs-on: ubuntu-latest
+  test: 
+    steps: 
+      - run: npm run test
